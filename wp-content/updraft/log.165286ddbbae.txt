@@ -1,0 +1,368 @@
+0000.089 (0) Opened log file at time: Wed, 07 Sep 2016 12:37:43 +0000 on http://misericordia.pp.ua
+0000.091 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6 PHP: 5.3.29 (Windows NT IXTIS 6.2 build 9200 (Unknow Windows version Business Edition) i586) MySQL: 5.5.48 WPLANG: uk Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 1536M (used: 35.1M | 35.5M) multisite: N openssl: OpenSSL 0.9.8zb 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.093 (0) Free space on disk containing Updraft's temporary directory: 51595.6 MB
+0000.123 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.125 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.300 (0) Requesting semaphore lock (f) (apparently via scheduler: last_scheduled_action_called_at=1472836574, seconds_ago=415289)
+0000.377 (0) Set semaphore last lock (f) time to 2016-09-07 12:37:44
+0000.379 (0) Semaphore lock (f) complete
+0000.389 (0) Backup run: resumption=0, nonce=165286ddbbae, begun at=1473251863 (1s ago), job type=backup
+0000.394 (0) Scheduling a resumption (1) after 300 seconds (1473252164) in case this run gets aborted
+0000.567 (0) Checking if we have a zip executable available
+0000.576 (0) Creation of backups of directories: beginning
+0000.597 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0007.468 (0) Total entities for the zip file: 564 directories, 2958 files (0 skipped as non-modified), 39.8 MB
+0007.552 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0007.676 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 100 files added (on-disk size: 115.9 KB)
+0007.738 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 200 files added (on-disk size: 115.9 KB)
+0007.798 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 300 files added (on-disk size: 115.9 KB)
+0007.861 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 400 files added (on-disk size: 115.9 KB)
+0007.924 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 500 files added (on-disk size: 115.9 KB)
+0007.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 2958 files batched, 501 (502) added so far); re-opening (prior size: 115.9 KB)
+0012.355 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 600 files added (on-disk size: 2471.6 KB)
+0012.429 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 700 files added (on-disk size: 2471.6 KB)
+0012.499 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 800 files added (on-disk size: 2471.6 KB)
+0012.588 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 900 files added (on-disk size: 2471.6 KB)
+0012.653 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1000 files added (on-disk size: 2471.6 KB)
+0012.657 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 2958 files batched, 501 (1003) added so far); re-opening (prior size: 2471.6 KB)
+0017.502 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1100 files added (on-disk size: 4885.3 KB)
+0017.571 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1200 files added (on-disk size: 4885.3 KB)
+0017.655 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1300 files added (on-disk size: 4885.3 KB)
+0017.733 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1400 files added (on-disk size: 4885.3 KB)
+0017.824 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1500 files added (on-disk size: 4885.3 KB)
+0017.828 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 MB, 2958 files batched, 501 (1504) added so far); re-opening (prior size: 4885.3 KB)
+0022.718 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1600 files added (on-disk size: 8105.5 KB)
+0022.815 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1700 files added (on-disk size: 8105.5 KB)
+0022.924 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1800 files added (on-disk size: 8105.5 KB)
+0023.005 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 1900 files added (on-disk size: 8105.5 KB)
+0023.093 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2000 files added (on-disk size: 8105.5 KB)
+0023.098 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 2958 files batched, 501 (2005) added so far); re-opening (prior size: 8105.5 KB)
+0029.614 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2100 files added (on-disk size: 10856.5 KB)
+0029.687 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2200 files added (on-disk size: 10856.5 KB)
+0029.762 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2300 files added (on-disk size: 10856.5 KB)
+0029.842 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2400 files added (on-disk size: 10856.5 KB)
+0029.917 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2500 files added (on-disk size: 10856.5 KB)
+0029.923 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12 MB, 2958 files batched, 501 (2506) added so far); re-opening (prior size: 10856.5 KB)
+0037.168 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2600 files added (on-disk size: 14494.5 KB)
+0037.261 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2700 files added (on-disk size: 14494.5 KB)
+0037.357 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2800 files added (on-disk size: 14494.5 KB)
+0037.476 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip.tmp: 2900 files added (on-disk size: 14494.5 KB)
+0043.191 (0) Created plugins zip (0) - 16112.9 KB in 42.5 s (378.9 KB/s) (SHA1 checksum: 05e81d1e19dafa336fc39a97b5d7ddb1bd13d43e)
+0043.197 (0) Beginning creation of dump of themes (split every: 400 MB)
+0044.075 (0) Total entities for the zip file: 150 directories, 544 files (0 skipped as non-modified), 7.1 MB
+0044.145 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0044.211 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0044.277 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0044.342 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0044.405 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0044.408 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 MB, 544 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0049.535 (0) Created themes zip (0) - 3763.3 KB in 6.3 s (594.3 KB/s) (SHA1 checksum: 913ad1d9c2704a60b141d183c02d7ac5e76cbda1)
+0049.542 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0049.543 (0) Looking for candidates to back up in: D:\OpenServer\domains\misericordia.pp.ua/wp-content/uploads
+0049.545 (0) finding files: 2016: adding to list (1)
+0049.546 (0) finding files: et_temp: adding to list (2)
+0049.547 (0) finding files: grid-gallery: adding to list (3)
+0049.548 (0) finding files: ithemes-security: adding to list (4)
+0049.549 (0) finding files: photo-gallery: adding to list (5)
+0049.550 (0) finding files: redux: adding to list (6)
+0049.551 (0) finding files: siteorigin-widgets: adding to list (7)
+0049.552 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0056.303 (0) Total entities for the zip file: 38 directories, 6311 files (0 skipped as non-modified), 175.3 MB
+0056.307 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0056.443 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 100 files added (on-disk size: 9.7 KB)
+0056.527 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 200 files added (on-disk size: 9.7 KB)
+0056.616 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 300 files added (on-disk size: 9.7 KB)
+0056.701 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 400 files added (on-disk size: 9.7 KB)
+0056.786 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 500 files added (on-disk size: 9.7 KB)
+0056.790 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.3 MB, 6311 files batched, 501 (502) added so far); re-opening (prior size: 9.7 KB)
+0063.230 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 600 files added (on-disk size: 18622.2 KB)
+0063.318 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 700 files added (on-disk size: 18622.2 KB)
+0063.406 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 800 files added (on-disk size: 18622.2 KB)
+0063.502 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 900 files added (on-disk size: 18622.2 KB)
+0063.601 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1000 files added (on-disk size: 18622.2 KB)
+0063.606 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (24.1 MB, 6311 files batched, 501 (1003) added so far); re-opening (prior size: 18622.2 KB)
+0070.093 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1100 files added (on-disk size: 43113.4 KB)
+0070.184 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1200 files added (on-disk size: 43113.4 KB)
+0070.275 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1300 files added (on-disk size: 43113.4 KB)
+0070.364 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1400 files added (on-disk size: 43113.4 KB)
+0070.453 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1500 files added (on-disk size: 43113.4 KB)
+0070.458 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.2 MB, 6311 files batched, 501 (1504) added so far); re-opening (prior size: 43113.4 KB)
+0077.679 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1600 files added (on-disk size: 55484 KB)
+0077.772 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1700 files added (on-disk size: 55484 KB)
+0077.886 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1800 files added (on-disk size: 55484 KB)
+0077.980 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 1900 files added (on-disk size: 55484 KB)
+0078.075 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2000 files added (on-disk size: 55484 KB)
+0078.081 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.5 MB, 6311 files batched, 501 (2005) added so far); re-opening (prior size: 55484 KB)
+0083.760 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2100 files added (on-disk size: 67109.8 KB)
+0083.855 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2200 files added (on-disk size: 67109.8 KB)
+0083.952 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2300 files added (on-disk size: 67109.8 KB)
+0084.049 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2400 files added (on-disk size: 67109.8 KB)
+0084.152 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2500 files added (on-disk size: 67109.8 KB)
+0084.159 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.8 MB, 6311 files batched, 501 (2506) added so far); re-opening (prior size: 67109.8 KB)
+0092.497 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2600 files added (on-disk size: 81109.8 KB)
+0092.614 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2700 files added (on-disk size: 81109.8 KB)
+0092.715 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2800 files added (on-disk size: 81109.8 KB)
+0092.819 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 2900 files added (on-disk size: 81109.8 KB)
+0093.094 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3000 files added (on-disk size: 81109.8 KB)
+0093.103 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.8 MB, 6311 files batched, 501 (3007) added so far); re-opening (prior size: 81109.8 KB)
+0099.452 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3100 files added (on-disk size: 94105.9 KB)
+0099.562 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3200 files added (on-disk size: 94105.9 KB)
+0100.067 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3300 files added (on-disk size: 94105.9 KB)
+0100.177 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3400 files added (on-disk size: 94105.9 KB)
+0100.281 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3500 files added (on-disk size: 94105.9 KB)
+0100.291 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.3 MB, 6311 files batched, 501 (3508) added so far); re-opening (prior size: 94105.9 KB)
+0108.749 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3600 files added (on-disk size: 108615.5 KB)
+0108.873 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3700 files added (on-disk size: 108615.5 KB)
+0108.982 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3800 files added (on-disk size: 108615.5 KB)
+0109.089 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 3900 files added (on-disk size: 108615.5 KB)
+0109.386 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4000 files added (on-disk size: 108615.5 KB)
+0109.397 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.9 MB, 6311 files batched, 501 (4009) added so far); re-opening (prior size: 108615.5 KB)
+0116.472 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4100 files added (on-disk size: 120677.5 KB)
+0116.590 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4200 files added (on-disk size: 120677.5 KB)
+0116.701 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4300 files added (on-disk size: 120677.5 KB)
+0116.814 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4400 files added (on-disk size: 120677.5 KB)
+0116.930 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4500 files added (on-disk size: 120677.5 KB)
+0116.943 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.7 MB, 6311 files batched, 501 (4510) added so far); re-opening (prior size: 120677.5 KB)
+0125.346 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4600 files added (on-disk size: 134596.2 KB)
+0125.461 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4700 files added (on-disk size: 134596.2 KB)
+0125.774 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4800 files added (on-disk size: 134596.2 KB)
+0125.889 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 4900 files added (on-disk size: 134596.2 KB)
+0126.005 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5000 files added (on-disk size: 134596.2 KB)
+0126.019 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.9 MB, 6311 files batched, 501 (5011) added so far); re-opening (prior size: 134596.2 KB)
+0135.956 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5100 files added (on-disk size: 147668.8 KB)
+0136.072 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5200 files added (on-disk size: 147668.8 KB)
+0136.189 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5300 files added (on-disk size: 147668.8 KB)
+0136.305 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5400 files added (on-disk size: 147668.8 KB)
+0136.423 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5500 files added (on-disk size: 147668.8 KB)
+0136.439 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.2 MB, 6311 files batched, 501 (5512) added so far); re-opening (prior size: 147668.8 KB)
+0146.452 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5600 files added (on-disk size: 158130.5 KB)
+0146.578 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5700 files added (on-disk size: 158130.5 KB)
+0146.698 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5800 files added (on-disk size: 158130.5 KB)
+0146.819 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 5900 files added (on-disk size: 158130.5 KB)
+0146.941 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 6000 files added (on-disk size: 158130.5 KB)
+0146.958 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.8 MB, 6311 files batched, 501 (6013) added so far); re-opening (prior size: 158130.5 KB)
+0156.496 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 6100 files added (on-disk size: 169128.7 KB)
+0156.676 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 6200 files added (on-disk size: 169128.7 KB)
+0156.864 (0) Zip: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip.tmp: 6300 files added (on-disk size: 169128.7 KB)
+0168.472 (0) Created uploads zip (0) - 177646 KB in 118.9 s (1493.9 KB/s) (SHA1 checksum: b7c45c4af3135ac683ef2b2a681b25e3a5be0eb3)
+0168.478 (0) Beginning backup of other directories found in the content directory (index: 0)
+0168.479 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0168.480 (0) Looking for candidates to back up in: D:\OpenServer\domains\misericordia.pp.ua/wp-content
+0168.481 (0) finding files: ewww: adding to list (1)
+0168.483 (0) finding files: gallery-bank.rar: adding to list (2)
+0168.483 (0) finding files: index.php: adding to list (3)
+0168.484 (0) finding files: languages: adding to list (4)
+0168.485 (0) finding files: mu-plugins: adding to list (5)
+0168.486 (0) finding files: ngg.rar: adding to list (6)
+0168.487 (0) finding files: ngg_styles.rar: adding to list (7)
+0168.488 (0) finding files: plugins: skipping: this is the plugins directory
+0168.489 (0) finding files: themes: skipping: this is the themes directory
+0168.490 (0) finding files: updraft: skipping: this is the updraft directory
+0168.491 (0) finding files: upgrade: skipping: excluded by options
+0168.492 (0) finding files: uploads: skipping: this is the uploads directory
+0168.493 (0) finding files: wp-cache-config.php: adding to list (8)
+0168.587 (0) Total entities for the zip file: 5 directories, 25 files (0 skipped as non-modified), 10.3 MB
+0170.121 (0) Created others zip (0) - 9017.1 KB in 1.6 s (5556.7 KB/s) (SHA1 checksum: 0e1314e43793de0fa23f3060d8e8a9905530c3bf)
+0170.131 (0) Saving backup status to database (elements: 8)
+0170.135 (0) No database backup (wp) - not part of this run
+0170.139 (0) backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0170.140 (0) backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0170.141 (0) backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0170.143 (0) backup_2016-09-07-1437_misericordiappua_165286ddbbae-others.zip: others: This file has not yet been successfully uploaded: will queue
+0170.144 (0) Saving backup history. Total backup size: 201.7 MB
+0170.149 (0) Requesting upload of the files that have not yet been successfully uploaded (4)
+0170.154 (0) Cloud backup selection (1/1): dropbox (last)
+0170.155 (0) Beginning dispatch of backup to remote (dropbox)
+0170.157 (0) Dropbox: begin cloud upload
+0170.249 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0171.532 (0) Dropbox quota usage: normal=615 MB, shared=0 MB, total=2048 MB, available=1433 MB
+0171.534 (0) Dropbox: Attempt to upload: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip to: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip
+0175.333 (0) Dropbox chunked upload: 6.4 % uploaded (AAAAAAAAAImlD78QmQ-09g, 1048576, 2048 KB)
+0181.312 (0) Dropbox chunked upload: 19.1 % uploaded (AAAAAAAAAImlD78QmQ-09g, 3145728, 3072 KB)
+0192.127 (0) Dropbox chunked upload: 38.1 % uploaded (AAAAAAAAAImlD78QmQ-09g, 6291456, 3072 KB)
+0202.331 (0) Dropbox chunked upload: 57.2 % uploaded (AAAAAAAAAImlD78QmQ-09g, 9437184, 3072 KB)
+0210.786 (0) Dropbox chunked upload: 76.3 % uploaded (AAAAAAAAAImlD78QmQ-09g, 12582912, 3072 KB)
+0218.658 (0) Dropbox chunked upload: 95.3 % uploaded (AAAAAAAAAImlD78QmQ-09g, 15728640, 3072 KB)
+0223.823 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAImlD78QmQ-09g, 16499573, 3072 KB)
+0226.416 (0) Recording as successfully uploaded: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip (5238b6a68241ee54c7d54fb529981472)
+0226.426 (0) Deleting local file: backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip: OK
+0226.427 (0) Dropbox: File upload success (backup_2016-09-07-1437_misericordiappua_165286ddbbae-plugins.zip): 16112 KB in 54s (293 KB/s)
+0227.555 (0) Dropbox quota usage: normal=433.3 MB, shared=0 MB, total=2048 MB, available=1614.7 MB
+0227.560 (0) Dropbox: Attempt to upload: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip to: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip
+0237.851 (0) Dropbox chunked upload: 81.6 % uploaded (AAAAAAAAAItJRRYs1D-8aQ, 3145728, 3072 KB)
+0241.314 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAItJRRYs1D-8aQ, 3853617, 3072 KB)
+0244.119 (0) Recording as successfully uploaded: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip (a36b6b66187925043d041f09f09bff06)
+0244.126 (0) Deleting local file: backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip: OK
+0244.127 (0) Dropbox: File upload success (backup_2016-09-07-1437_misericordiappua_165286ddbbae-themes.zip): 3763 KB in 16s (227 KB/s)
+0245.246 (0) Dropbox quota usage: normal=428.2 MB, shared=0 MB, total=2048 MB, available=1619.8 MB
+0245.249 (0) Dropbox: Attempt to upload: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip to: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip
+0253.230 (0) Dropbox chunked upload: 1.7 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 3145728, 3072 KB)
+0262.421 (0) The scheduled resumption is within 45 seconds - will reschedule
+0262.425 (0) Rescheduling resumption 1: moving to 345 seconds from now (1473252471)
+0262.434 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0262.436 (0) Dropbox chunked upload: 3.5 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 6291456, 2560 KB)
+0270.600 (0) Dropbox chunked upload: 4.9 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 8912896, 2560 KB)
+0277.813 (0) Dropbox chunked upload: 6.3 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 11534336, 3072 KB)
+0287.218 (0) Dropbox chunked upload: 8.1 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 14680064, 2560 KB)
+0295.501 (0) Dropbox chunked upload: 9.5 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 17301504, 2560 KB)
+0304.041 (0) Dropbox chunked upload: 11 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 19922944, 2560 KB)
+0312.796 (0) Dropbox chunked upload: 12.4 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 22544384, 2560 KB)
+0321.110 (0) The time we have been running (321) is approaching the resumption interval (345) - increasing resumption interval to 352
+0321.117 (0) Dropbox chunked upload: 13.8 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 25165824, 2560 KB)
+0328.268 (0) The time we have been running (328.2) is approaching the resumption interval (352) - increasing resumption interval to 359
+0328.274 (0) Dropbox chunked upload: 15.3 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 27787264, 3072 KB)
+0336.799 (0) The time we have been running (336.7) is approaching the resumption interval (359) - increasing resumption interval to 367
+0336.805 (0) Dropbox chunked upload: 17 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 30932992, 3072 KB)
+0347.073 (0) The time we have been running (347) is approaching the resumption interval (367) - increasing resumption interval to 377
+0347.076 (0) Dropbox chunked upload: 18.7 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 34078720, 3072 KB)
+0355.414 (0) The time we have been running (355.3) is approaching the resumption interval (377) - increasing resumption interval to 386
+0355.418 (0) Dropbox chunked upload: 20.5 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 37224448, 3072 KB)
+0364.599 (0) The time we have been running (364.5) is approaching the resumption interval (386) - increasing resumption interval to 395
+0364.603 (0) Dropbox chunked upload: 22.2 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 40370176, 2560 KB)
+0372.105 (0) The time we have been running (372) is approaching the resumption interval (395) - increasing resumption interval to 403
+0372.110 (0) Dropbox chunked upload: 23.6 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 42991616, 2560 KB)
+0380.856 (0) The time we have been running (380.8) is approaching the resumption interval (403) - increasing resumption interval to 411
+0380.862 (0) Dropbox chunked upload: 25.1 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 45613056, 2560 KB)
+0388.983 (0) The time we have been running (388.9) is approaching the resumption interval (411) - increasing resumption interval to 419
+0388.989 (0) Dropbox chunked upload: 26.5 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 48234496, 2560 KB)
+0396.387 (0) The time we have been running (396.3) is approaching the resumption interval (419) - increasing resumption interval to 427
+0396.391 (0) Dropbox chunked upload: 28 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 50855936, 3072 KB)
+0404.527 (0) The time we have been running (404.4) is approaching the resumption interval (427) - increasing resumption interval to 435
+0404.533 (0) Dropbox chunked upload: 29.7 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 54001664, 3072 KB)
+0413.342 (0) The time we have been running (413.2) is approaching the resumption interval (435) - increasing resumption interval to 444
+0413.349 (0) Dropbox chunked upload: 31.4 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 57147392, 3072 KB)
+0425.218 (0) The time we have been running (425.1) is approaching the resumption interval (444) - increasing resumption interval to 456
+0425.224 (0) Dropbox chunked upload: 33.1 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 60293120, 3072 KB)
+0433.793 (0) The time we have been running (433.7) is approaching the resumption interval (456) - increasing resumption interval to 464
+0433.797 (0) Dropbox chunked upload: 34.9 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 63438848, 3072 KB)
+0441.947 (0) The time we have been running (441.9) is approaching the resumption interval (464) - increasing resumption interval to 472
+0441.953 (0) Dropbox chunked upload: 36.6 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 66584576, 3072 KB)
+0451.232 (0) The time we have been running (451.1) is approaching the resumption interval (472) - increasing resumption interval to 482
+0451.240 (0) Dropbox chunked upload: 38.3 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 69730304, 2560 KB)
+0458.827 (0) The time we have been running (458.7) is approaching the resumption interval (482) - increasing resumption interval to 489
+0458.831 (0) Dropbox chunked upload: 39.8 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 72351744, 2560 KB)
+0466.622 (0) The time we have been running (466.5) is approaching the resumption interval (489) - increasing resumption interval to 497
+0466.625 (0) Dropbox chunked upload: 41.2 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 74973184, 2560 KB)
+0475.073 (0) The time we have been running (475) is approaching the resumption interval (497) - increasing resumption interval to 505
+0475.079 (0) Dropbox chunked upload: 42.7 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 77594624, 2560 KB)
+0482.810 (0) The time we have been running (482.7) is approaching the resumption interval (505) - increasing resumption interval to 513
+0482.817 (0) Dropbox chunked upload: 44.1 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 80216064, 2560 KB)
+0489.974 (0) The time we have been running (489.9) is approaching the resumption interval (513) - increasing resumption interval to 520
+0489.981 (0) Dropbox chunked upload: 45.5 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 82837504, 3072 KB)
+0498.514 (0) The time we have been running (498.4) is approaching the resumption interval (520) - increasing resumption interval to 529
+0498.517 (0) Dropbox chunked upload: 47.3 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 85983232, 3072 KB)
+0507.620 (0) The time we have been running (507.5) is approaching the resumption interval (529) - increasing resumption interval to 538
+0507.624 (0) Dropbox chunked upload: 49 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 89128960, 2560 KB)
+0514.755 (0) The time we have been running (514.7) is approaching the resumption interval (538) - increasing resumption interval to 545
+0514.761 (0) Dropbox chunked upload: 50.4 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 91750400, 3072 KB)
+0523.829 (0) The time we have been running (523.7) is approaching the resumption interval (545) - increasing resumption interval to 554
+0523.835 (0) Dropbox chunked upload: 52.2 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 94896128, 2560 KB)
+0531.381 (0) The time we have been running (531.3) is approaching the resumption interval (554) - increasing resumption interval to 562
+0531.387 (0) Dropbox chunked upload: 53.6 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 97517568, 2560 KB)
+0538.791 (0) The time we have been running (538.7) is approaching the resumption interval (562) - increasing resumption interval to 569
+0538.797 (0) Dropbox chunked upload: 55 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 100139008, 3072 KB)
+0548.132 (0) The time we have been running (548) is approaching the resumption interval (569) - increasing resumption interval to 579
+0548.136 (0) Dropbox chunked upload: 56.8 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 103284736, 2560 KB)
+0555.618 (0) The time we have been running (555.5) is approaching the resumption interval (579) - increasing resumption interval to 586
+0555.621 (0) Dropbox chunked upload: 58.2 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 105906176, 3072 KB)
+0563.913 (0) The time we have been running (563.8) is approaching the resumption interval (586) - increasing resumption interval to 594
+0563.918 (0) The scheduled resumption is within 45 seconds - will reschedule
+0563.921 (0) Rescheduling resumption 1: moving to 639 seconds from now (1473253066)
+0563.925 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 594 + 45 = 639
+0563.926 (0) Dropbox chunked upload: 59.9 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 109051904, 3072 KB)
+0572.168 (0) Dropbox chunked upload: 61.7 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 112197632, 3072 KB)
+0581.592 (0) Dropbox chunked upload: 63.4 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 115343360, 2560 KB)
+0591.625 (0) Dropbox chunked upload: 64.8 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 117964800, 2560 KB)
+0599.510 (0) Dropbox chunked upload: 66.3 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 120586240, 2560 KB)
+0607.927 (0) Dropbox chunked upload: 67.7 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 123207680, 2560 KB)
+0615.875 (0) The time we have been running (615.8) is approaching the resumption interval (639) - increasing resumption interval to 646
+0615.880 (0) Dropbox chunked upload: 69.2 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 125829120, 2560 KB)
+0623.563 (0) The time we have been running (623.5) is approaching the resumption interval (646) - increasing resumption interval to 654
+0623.572 (0) Dropbox chunked upload: 70.6 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 128450560, 2560 KB)
+0631.469 (0) The time we have been running (631.4) is approaching the resumption interval (654) - increasing resumption interval to 662
+0631.476 (0) Dropbox chunked upload: 72.1 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 131072000, 2560 KB)
+0638.093 (0) The time we have been running (638) is approaching the resumption interval (662) - increasing resumption interval to 669
+0638.097 (0) Dropbox chunked upload: 73.5 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 133693440, 3072 KB)
+0648.288 (0) The time we have been running (648.2) is approaching the resumption interval (669) - increasing resumption interval to 679
+0648.292 (0) Dropbox chunked upload: 75.2 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 136839168, 3072 KB)
+0656.626 (0) The time we have been running (656.5) is approaching the resumption interval (679) - increasing resumption interval to 687
+0656.630 (0) Dropbox chunked upload: 77 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 139984896, 3072 KB)
+0665.317 (0) The time we have been running (665.2) is approaching the resumption interval (687) - increasing resumption interval to 696
+0665.321 (0) Dropbox chunked upload: 78.7 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 143130624, 3072 KB)
+0673.622 (0) The time we have been running (673.5) is approaching the resumption interval (696) - increasing resumption interval to 704
+0673.625 (0) Dropbox chunked upload: 80.4 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 146276352, 3072 KB)
+0683.516 (0) The time we have been running (683.4) is approaching the resumption interval (704) - increasing resumption interval to 714
+0683.520 (0) Dropbox chunked upload: 82.1 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 149422080, 2560 KB)
+0691.072 (0) The time we have been running (691) is approaching the resumption interval (714) - increasing resumption interval to 721
+0691.077 (0) Dropbox chunked upload: 83.6 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 152043520, 2560 KB)
+0698.293 (0) The time we have been running (698.2) is approaching the resumption interval (721) - increasing resumption interval to 729
+0698.296 (0) Dropbox chunked upload: 85 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 154664960, 3072 KB)
+0706.922 (0) The time we have been running (706.8) is approaching the resumption interval (729) - increasing resumption interval to 737
+0706.926 (0) Dropbox chunked upload: 86.8 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 157810688, 3072 KB)
+0716.283 (0) The time we have been running (716.2) is approaching the resumption interval (737) - increasing resumption interval to 747
+0716.286 (0) Dropbox chunked upload: 88.5 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 160956416, 2560 KB)
+0723.814 (0) The time we have been running (723.7) is approaching the resumption interval (747) - increasing resumption interval to 754
+0723.818 (0) Dropbox chunked upload: 89.9 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 163577856, 2560 KB)
+0731.264 (0) The time we have been running (731.2) is approaching the resumption interval (754) - increasing resumption interval to 762
+0731.267 (0) Dropbox chunked upload: 91.4 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 166199296, 3072 KB)
+0740.907 (0) The time we have been running (740.8) is approaching the resumption interval (762) - increasing resumption interval to 771
+0740.910 (0) Dropbox chunked upload: 93.1 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 169345024, 2560 KB)
+0748.336 (0) The time we have been running (748.2) is approaching the resumption interval (771) - increasing resumption interval to 779
+0748.340 (0) Dropbox chunked upload: 94.5 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 171966464, 3072 KB)
+0756.857 (0) The time we have been running (756.8) is approaching the resumption interval (779) - increasing resumption interval to 787
+0756.861 (0) Dropbox chunked upload: 96.3 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 175112192, 3072 KB)
+0765.678 (0) The time we have been running (765.6) is approaching the resumption interval (787) - increasing resumption interval to 796
+0765.681 (0) Dropbox chunked upload: 98 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 178257920, 3072 KB)
+0774.129 (0) The time we have been running (774) is approaching the resumption interval (796) - increasing resumption interval to 805
+0774.132 (0) Dropbox chunked upload: 99.7 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 181403648, 3072 KB)
+0777.772 (0) The time we have been running (777.7) is approaching the resumption interval (805) - increasing resumption interval to 808
+0777.776 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAIy12xlwdA1nYQ, 181909468, 3072 KB)
+0779.702 (0) Recording as successfully uploaded: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip (2edc86bd18a0dd886d6fa8dacf4be354)
+0779.725 (0) Deleting local file: backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip: OK
+0779.727 (0) Dropbox: File upload success (backup_2016-09-07-1437_misericordiappua_165286ddbbae-uploads.zip): 177645 KB in 534s (332 KB/s)
+0781.078 (0) Dropbox quota usage: normal=601.6 MB, shared=0 MB, total=2048 MB, available=1446.4 MB
+0781.081 (0) Dropbox: Attempt to upload: backup_2016-09-07-1437_misericordiappua_165286ddbbae-others.zip to: backup_2016-09-07-1437_misericordiappua_165286ddbbae-others.zip
+0789.693 (0) The time we have been running (789.6) is approaching the resumption interval (808) - increasing resumption interval to 820
+0789.698 (0) Dropbox chunked upload: 34.1 % uploaded (AAAAAAAAAI02HLT2V0MXyQ, 3145728, 3072 KB)
+0801.481 (0) The time we have been running (801.4) is approaching the resumption interval (820) - increasing resumption interval to 832
+0801.485 (0) Dropbox chunked upload: 68.1 % uploaded (AAAAAAAAAI02HLT2V0MXyQ, 6291456, 3072 KB)
+0810.191 (0) The time we have been running (810.1) is approaching the resumption interval (832) - increasing resumption interval to 841
+0810.194 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAI02HLT2V0MXyQ, 9233509, 3072 KB)
+0811.841 (0) Recording as successfully uploaded: backup_2016-09-07-1437_misericordiappua_165286ddbbae-others.zip (15d2283ad6fbd9ed666ed77eade1a2e6)
+0811.849 (0) Deleting local file: backup_2016-09-07-1437_misericordiappua_165286ddbbae-others.zip: OK
+0811.851 (0) Dropbox: File upload success (backup_2016-09-07-1437_misericordiappua_165286ddbbae-others.zip): 9017 KB in 30s (293 KB/s)
+0811.855 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+0811.858 (0) Number of backup sets in history: 6; groups (db): 1
+0811.859 (0) Examining (for databases) backup set with group_id=0, nonce=fa536c00cd19, datestamp=1473252076 (Sep 07 2016 12:41:16)
+0811.861 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0811.862 (0) Examining (for databases) backup set with group_id=0, nonce=165286ddbbae, datestamp=1473251863 (Sep 07 2016 12:37:43)
+0811.863 (0) Examining (for databases) backup set with group_id=0, nonce=a289aca494fc, datestamp=1473167712 (Sep 06 2016 13:15:12)
+0811.865 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0811.866 (0) Examining (for databases) backup set with group_id=0, nonce=f70dcaada0f9, datestamp=1472916800 (Sep 03 2016 15:33:20)
+0811.867 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0811.868 (0) Examining (for databases) backup set with group_id=0, nonce=7f5c0d1d83c5, datestamp=1472836574 (Sep 02 2016 17:16:14)
+0811.870 (0) Examining (for databases) backup set with group_id=0, nonce=442f987ac0d3, datestamp=1465999241 (Jun 15 2016 14:00:41)
+0811.871 (0) Number of backup sets in history: 6; groups (files): 1
+0811.872 (0) Examining (for files) backup set with nonce=fa536c00cd19, datestamp=1473252076 (Sep 07 2016 12:41:16)
+0811.874 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0811.876 (0) Examining (for files) backup set with nonce=165286ddbbae, datestamp=1473251863 (Sep 07 2016 12:37:43)
+0811.877 (0) This backup set is the backup set just made, so will not be deleted.
+0811.878 (0) This backup set is the backup set just made, so will not be deleted.
+0811.878 (0) This backup set is the backup set just made, so will not be deleted.
+0811.879 (0) This backup set is the backup set just made, so will not be deleted.
+0811.879 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0811.880 (0) Examining (for files) backup set with nonce=a289aca494fc, datestamp=1473167712 (Sep 06 2016 13:15:12)
+0811.881 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0811.882 (0) Examining (for files) backup set with nonce=f70dcaada0f9, datestamp=1472916800 (Sep 03 2016 15:33:20)
+0811.884 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0811.885 (0) Examining (for files) backup set with nonce=7f5c0d1d83c5, datestamp=1472836574 (Sep 02 2016 17:16:14)
+0811.886 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0811.887 (0) Examining (for files) backup set with nonce=442f987ac0d3, datestamp=1465999241 (Jun 15 2016 14:00:41)
+0811.889 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0811.890 (0) Retain: saving new backup history (sets now: 6) and finishing retain operation
+0811.894 (0) Resume backup (165286ddbbae, 0): finish run
+0811.897 (0) Decremented the semaphore (f) by 1
+0811.898 (0) Semaphore (f) unlocked
+0811.899 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0811.904 (0) No email will/can be sent - the user has not configured an email address.
+0811.906 (0) The backup apparently succeeded and is now complete

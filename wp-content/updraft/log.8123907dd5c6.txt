@@ -1,0 +1,297 @@
+0000.001 (0) Opened log file at time: Wed, 07 Sep 2016 14:25:34 +0000 on http://misericordia.pp.ua
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.20 WP: 4.6 PHP: 5.3.29 (Windows NT IXTIS 6.2 build 9200 (Unknow Windows version Business Edition) i586) MySQL: 5.5.48 WPLANG: uk Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 1536M (used: 44.8M | 45.3M) multisite: N openssl: OpenSSL 0.9.8zb 6 Aug 2014 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 52742.9 MB
+0000.010 (0) Tasks: Backup files: 0 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.036 (0) Requesting semaphore lock (d) (apparently not via scheduler)
+0000.039 (0) Set semaphore last lock (d) time to 2016-09-07 14:25:34
+0000.040 (0) Semaphore lock (d) complete
+0000.045 (0) Backup run: resumption=0, nonce=8123907dd5c6, begun at=1473258334 (0s ago), job type=backup
+0000.047 (0) Scheduling a resumption (1) after 600 seconds (1473258934) in case this run gets aborted
+0000.060 (0) This backup run is not intended for files - skipping
+0000.061 (0) Beginning creation of database dump (WordPress DB)
+0000.155 (0) Table wp_options: Total expected rows (approximate): 472
+0000.212 (0) Table wp_options: Total rows added: 468 in 0.06 seconds
+0000.214 (0) Table wp_options: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_options.table.gz - 85.5 KB)
+0000.226 (0) Table wp_users: Total expected rows (approximate): 3
+0000.236 (0) Table wp_users: Total rows added: 3 in 0.01 seconds
+0000.238 (0) Table wp_users: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_users.table.gz - 0.8 KB)
+0000.246 (0) Table wp_usermeta: Total expected rows (approximate): 60
+0000.256 (0) Table wp_usermeta: Total rows added: 60 in 0.01 seconds
+0000.258 (0) Table wp_usermeta: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_usermeta.table.gz - 1.7 KB)
+0000.268 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0000.276 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0000.278 (0) Table wp_commentmeta: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0000.287 (0) Table wp_comments: Total expected rows (approximate): 0
+0000.296 (0) Table wp_comments: Total rows added: 0 in 0.01 seconds
+0000.298 (0) Table wp_comments: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_comments.table.gz - 0.5 KB)
+0000.308 (0) Table wp_links: Total expected rows (approximate): 13
+0000.318 (0) Table wp_links: Total rows added: 13 in 0.01 seconds
+0000.320 (0) Table wp_links: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_links.table.gz - 1.1 KB)
+0000.330 (0) Table wp_postmeta: Total expected rows (approximate): 1549
+0000.415 (0) Table wp_postmeta: Total rows added: 1549 in 0.08 seconds
+0000.417 (0) Table wp_postmeta: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_postmeta.table.gz - 69.1 KB)
+0000.427 (0) Table wp_posts: Total expected rows (approximate): 584
+0000.566 (0) Table wp_posts: Total rows added: 584 in 0.14 seconds
+0000.569 (0) Table wp_posts: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_posts.table.gz - 67.2 KB)
+0000.582 (0) Table wp_term_relationships: Total expected rows (approximate): 22
+0000.593 (0) Table wp_term_relationships: Total rows added: 22 in 0.01 seconds
+0000.595 (0) Table wp_term_relationships: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0000.605 (0) Table wp_term_taxonomy: Total expected rows (approximate): 6
+0000.614 (0) Table wp_term_taxonomy: Total rows added: 6 in 0.01 seconds
+0000.616 (0) Table wp_term_taxonomy: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0000.625 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0000.635 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0000.637 (0) Table wp_termmeta: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_termmeta.table.gz - 0.4 KB)
+0000.648 (0) Table wp_terms: Total expected rows (approximate): 6
+0000.657 (0) Table wp_terms: Total rows added: 6 in 0.01 seconds
+0000.659 (0) Table wp_terms: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_terms.table.gz - 0.5 KB)
+0000.664 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_album
+0000.666 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_album_gallery
+0000.667 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_gallery
+0000.668 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_image
+0000.670 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_image_comment
+0000.672 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_image_rate
+0000.673 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_image_tag
+0000.674 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_option
+0000.676 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_shortcode
+0000.677 (0) Skipping table (lacks our prefix (wp_)): ugej_bwg_theme
+0000.679 (0) Skipping table (lacks our prefix (wp_)): ugej_commentmeta
+0000.680 (0) Skipping table (lacks our prefix (wp_)): ugej_comments
+0000.682 (0) Skipping table (lacks our prefix (wp_)): ugej_duplicator_packages
+0000.683 (0) Skipping table (lacks our prefix (wp_)): ugej_gallery_albums
+0000.684 (0) Skipping table (lacks our prefix (wp_)): ugej_gallery_pics
+0000.686 (0) Skipping table (lacks our prefix (wp_)): ugej_gallery_settings
+0000.687 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_folders
+0000.688 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_galleries
+0000.690 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_galleries_excluded
+0000.691 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_galleries_resources
+0000.692 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_photos
+0000.694 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_photos_pos
+0000.695 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_photos_settings
+0000.696 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_settings_presets
+0000.698 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_settings_sets
+0000.699 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_stats
+0000.700 (0) Skipping table (lacks our prefix (wp_)): ugej_gg_tags
+0000.701 (0) Skipping table (lacks our prefix (wp_)): ugej_huge_itgallery_gallerys
+0000.703 (0) Skipping table (lacks our prefix (wp_)): ugej_huge_itgallery_images
+0000.704 (0) Skipping table (lacks our prefix (wp_)): ugej_huge_itgallery_like_dislike
+0000.706 (0) Skipping table (lacks our prefix (wp_)): ugej_links
+0000.707 (0) Skipping table (lacks our prefix (wp_)): ugej_ngg_album
+0000.708 (0) Skipping table (lacks our prefix (wp_)): ugej_ngg_gallery
+0000.709 (0) Skipping table (lacks our prefix (wp_)): ugej_ngg_pictures
+0000.711 (0) Skipping table (lacks our prefix (wp_)): ugej_options
+0000.712 (0) Skipping table (lacks our prefix (wp_)): ugej_postmeta
+0000.714 (0) Skipping table (lacks our prefix (wp_)): ugej_posts
+0000.716 (0) Skipping table (lacks our prefix (wp_)): ugej_sgmb_widget
+0000.718 (0) Skipping table (lacks our prefix (wp_)): ugej_term_relationships
+0000.720 (0) Skipping table (lacks our prefix (wp_)): ugej_term_taxonomy
+0000.721 (0) Skipping table (lacks our prefix (wp_)): ugej_termmeta
+0000.723 (0) Skipping table (lacks our prefix (wp_)): ugej_terms
+0000.725 (0) Skipping table (lacks our prefix (wp_)): ugej_usermeta
+0000.726 (0) Skipping table (lacks our prefix (wp_)): ugej_users
+0000.735 (0) Table wp_bwg_album: Total expected rows (approximate): 0
+0000.744 (0) Table wp_bwg_album: Total rows added: 0 in 0.01 seconds
+0000.746 (0) Table wp_bwg_album: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_album.table.gz - 0.3 KB)
+0000.757 (0) Table wp_bwg_album_gallery: Total expected rows (approximate): 0
+0000.767 (0) Table wp_bwg_album_gallery: Total rows added: 0 in 0.01 seconds
+0000.769 (0) Table wp_bwg_album_gallery: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_album_gallery.table.gz - 0.3 KB)
+0000.780 (0) Table wp_bwg_gallery: Total expected rows (approximate): 0
+0000.790 (0) Table wp_bwg_gallery: Total rows added: 0 in 0.01 seconds
+0000.793 (0) Table wp_bwg_gallery: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_gallery.table.gz - 0.4 KB)
+0000.805 (0) Table wp_bwg_image: Total expected rows (approximate): 0
+0000.814 (0) Table wp_bwg_image: Total rows added: 0 in 0.01 seconds
+0000.816 (0) Table wp_bwg_image: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_image.table.gz - 0.4 KB)
+0000.826 (0) Table wp_bwg_image_comment: Total expected rows (approximate): 0
+0000.836 (0) Table wp_bwg_image_comment: Total rows added: 0 in 0.01 seconds
+0000.840 (0) Table wp_bwg_image_comment: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_image_comment.table.gz - 0.3 KB)
+0000.856 (0) Table wp_bwg_image_rate: Total expected rows (approximate): 0
+0000.871 (0) Table wp_bwg_image_rate: Total rows added: 0 in 0.01 seconds
+0000.873 (0) Table wp_bwg_image_rate: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_image_rate.table.gz - 0.3 KB)
+0000.886 (0) Table wp_bwg_image_tag: Total expected rows (approximate): 0
+0000.895 (0) Table wp_bwg_image_tag: Total rows added: 0 in 0.01 seconds
+0000.898 (0) Table wp_bwg_image_tag: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_image_tag.table.gz - 0.3 KB)
+0000.910 (0) Table wp_bwg_option: Total expected rows (approximate): 1
+0000.928 (0) Table wp_bwg_option: Total rows added: 1 in 0.02 seconds
+0000.932 (0) Table wp_bwg_option: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_option.table.gz - 1.6 KB)
+0000.945 (0) Table wp_bwg_shortcode: Total expected rows (approximate): 3
+0000.957 (0) Table wp_bwg_shortcode: Total rows added: 3 in 0.01 seconds
+0000.959 (0) Table wp_bwg_shortcode: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_shortcode.table.gz - 0.7 KB)
+0000.971 (0) Table wp_bwg_theme: Total expected rows (approximate): 2
+0000.983 (0) Table wp_bwg_theme: Total rows added: 2 in 0.01 seconds
+0000.987 (0) Table wp_bwg_theme: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_theme.table.gz - 3.4 KB)
+0001.001 (0) Table wp_ewwwio_images: Total expected rows (approximate): 0
+0001.013 (0) Table wp_ewwwio_images: Total rows added: 0 in 0.01 seconds
+0001.017 (0) Table wp_ewwwio_images: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_ewwwio_images.table.gz - 0.4 KB)
+0001.030 (0) Table wp_gallery_albums: Total expected rows (approximate): 1
+0001.042 (0) Table wp_gallery_albums: Total rows added: 1 in 0.01 seconds
+0001.044 (0) Table wp_gallery_albums: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gallery_albums.table.gz - 0.4 KB)
+0001.058 (0) Table wp_gallery_pics: Total expected rows (approximate): 6
+0001.099 (0) Table wp_gallery_pics: Total rows added: 6 in 0.04 seconds
+0001.102 (0) Table wp_gallery_pics: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gallery_pics.table.gz - 0.5 KB)
+0001.113 (0) Table wp_gallery_settings: Total expected rows (approximate): 78
+0001.129 (0) Table wp_gallery_settings: Total rows added: 78 in 0.01 seconds
+0001.134 (0) Table wp_gallery_settings: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gallery_settings.table.gz - 1.1 KB)
+0001.149 (0) Table wp_gg_folders: Total expected rows (approximate): 0
+0001.160 (0) Table wp_gg_folders: Total rows added: 0 in 0.01 seconds
+0001.162 (0) Table wp_gg_folders: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_folders.table.gz - 0.3 KB)
+0001.177 (0) Table wp_gg_galleries: Total expected rows (approximate): 1
+0001.188 (0) Table wp_gg_galleries: Total rows added: 1 in 0.01 seconds
+0001.191 (0) Table wp_gg_galleries: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_galleries.table.gz - 0.3 KB)
+0001.206 (0) Table wp_gg_galleries_excluded: Total expected rows (approximate): 0
+0001.215 (0) Table wp_gg_galleries_excluded: Total rows added: 0 in 0.01 seconds
+0001.219 (0) Table wp_gg_galleries_excluded: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_galleries_excluded.table.gz - 0.3 KB)
+0001.232 (0) Table wp_gg_galleries_resources: Total expected rows (approximate): 7
+0001.243 (0) Table wp_gg_galleries_resources: Total rows added: 7 in 0.01 seconds
+0001.245 (0) Table wp_gg_galleries_resources: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_galleries_resources.table.gz - 0.4 KB)
+0001.258 (0) Table wp_gg_photos: Total expected rows (approximate): 7
+0001.270 (0) Table wp_gg_photos: Total rows added: 7 in 0.01 seconds
+0001.273 (0) Table wp_gg_photos: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_photos.table.gz - 0.4 KB)
+0001.287 (0) Table wp_gg_photos_pos: Total expected rows (approximate): 0
+0001.296 (0) Table wp_gg_photos_pos: Total rows added: 0 in 0.01 seconds
+0001.300 (0) Table wp_gg_photos_pos: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_photos_pos.table.gz - 0.3 KB)
+0001.312 (0) Table wp_gg_photos_settings: Total expected rows (approximate): 0
+0001.323 (0) Table wp_gg_photos_settings: Total rows added: 0 in 0.01 seconds
+0001.325 (0) Table wp_gg_photos_settings: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_photos_settings.table.gz - 0.3 KB)
+0001.337 (0) Table wp_gg_settings_presets: Total expected rows (approximate): 0
+0001.346 (0) Table wp_gg_settings_presets: Total rows added: 0 in 0.01 seconds
+0001.349 (0) Table wp_gg_settings_presets: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_settings_presets.table.gz - 0.3 KB)
+0001.363 (0) Table wp_gg_settings_sets: Total expected rows (approximate): 1
+0001.375 (0) Table wp_gg_settings_sets: Total rows added: 1 in 0.01 seconds
+0001.378 (0) Table wp_gg_settings_sets: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_settings_sets.table.gz - 1.2 KB)
+0001.392 (0) Table wp_gg_stats: Total expected rows (approximate): 3
+0001.405 (0) Table wp_gg_stats: Total rows added: 3 in 0.01 seconds
+0001.407 (0) Table wp_gg_stats: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_stats.table.gz - 0.4 KB)
+0001.419 (0) Table wp_gg_tags: Total expected rows (approximate): 0
+0001.429 (0) Table wp_gg_tags: Total rows added: 0 in 0.01 seconds
+0001.433 (0) Table wp_gg_tags: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_tags.table.gz - 0.3 KB)
+0001.446 (0) Table wp_huge_itgallery_gallerys: Total expected rows (approximate): 2
+0001.458 (0) Table wp_huge_itgallery_gallerys: Total rows added: 2 in 0.01 seconds
+0001.460 (0) Table wp_huge_itgallery_gallerys: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_huge_itgallery_gallerys.table.gz - 0.6 KB)
+0001.473 (0) Table wp_huge_itgallery_images: Total expected rows (approximate): 14
+0001.487 (0) Table wp_huge_itgallery_images: Total rows added: 14 in 0.01 seconds
+0001.490 (0) Table wp_huge_itgallery_images: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_huge_itgallery_images.table.gz - 1.3 KB)
+0001.502 (0) Table wp_huge_itgallery_like_dislike: Total expected rows (approximate): 0
+0001.512 (0) Table wp_huge_itgallery_like_dislike: Total rows added: 0 in 0.01 seconds
+0001.514 (0) Table wp_huge_itgallery_like_dislike: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_huge_itgallery_like_dislike.table.gz - 0.3 KB)
+0001.527 (0) Table wp_itsec_lockouts: Total expected rows (approximate): 0
+0001.539 (0) Table wp_itsec_lockouts: Total rows added: 0 in 0.01 seconds
+0001.542 (0) Table wp_itsec_lockouts: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_itsec_lockouts.table.gz - 0.4 KB)
+0001.555 (0) Table wp_itsec_log: Total expected rows (approximate): 0
+0001.566 (0) Table wp_itsec_log: Total rows added: 0 in 0.01 seconds
+0001.570 (0) Table wp_itsec_log: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_itsec_log.table.gz - 0.4 KB)
+0001.581 (0) Table wp_itsec_temp: Total expected rows (approximate): 0
+0001.593 (0) Table wp_itsec_temp: Total rows added: 0 in 0.01 seconds
+0001.595 (0) Table wp_itsec_temp: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_itsec_temp.table.gz - 0.4 KB)
+0001.610 (0) Table wp_ngg_album: Total expected rows (approximate): 1
+0001.622 (0) Table wp_ngg_album: Total rows added: 1 in 0.01 seconds
+0001.624 (0) Table wp_ngg_album: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_ngg_album.table.gz - 0.5 KB)
+0001.637 (0) Table wp_ngg_gallery: Total expected rows (approximate): 4
+0001.649 (0) Table wp_ngg_gallery: Total rows added: 4 in 0.01 seconds
+0001.653 (0) Table wp_ngg_gallery: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_ngg_gallery.table.gz - 0.7 KB)
+0001.665 (0) Table wp_ngg_pictures: Total expected rows (approximate): 78
+0001.688 (0) Table wp_ngg_pictures: Total rows added: 78 in 0.02 seconds
+0001.691 (0) Table wp_ngg_pictures: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_ngg_pictures.table.gz - 5.8 KB)
+0001.705 (0) Table wp_sgmb_widget: Total expected rows (approximate): 2
+0001.716 (0) Table wp_sgmb_widget: Total rows added: 2 in 0.01 seconds
+0001.720 (0) Table wp_sgmb_widget: finishing file (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_sgmb_widget.table.gz - 0.9 KB)
+0001.728 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_options.table.gz (1/91): adding to final database dump
+0001.756 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_users.table.gz (2/91): adding to final database dump
+0001.760 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_usermeta.table.gz (3/91): adding to final database dump
+0001.764 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_commentmeta.table.gz (4/91): adding to final database dump
+0001.768 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_comments.table.gz (5/91): adding to final database dump
+0001.770 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_links.table.gz (6/91): adding to final database dump
+0001.773 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_postmeta.table.gz (7/91): adding to final database dump
+0001.813 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_posts.table.gz (8/91): adding to final database dump
+0001.844 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_term_relationships.table.gz (9/91): adding to final database dump
+0001.846 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_term_taxonomy.table.gz (10/91): adding to final database dump
+0001.848 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_termmeta.table.gz (11/91): adding to final database dump
+0001.852 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_terms.table.gz (12/91): adding to final database dump
+0001.855 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_album.table.gz (13/91): adding to final database dump
+0001.857 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_album_gallery.table.gz (14/91): adding to final database dump
+0001.859 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_gallery.table.gz (15/91): adding to final database dump
+0001.861 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_image.table.gz (16/91): adding to final database dump
+0001.863 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_image_comment.table.gz (17/91): adding to final database dump
+0001.866 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_image_rate.table.gz (18/91): adding to final database dump
+0001.869 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_image_tag.table.gz (19/91): adding to final database dump
+0001.871 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_option.table.gz (20/91): adding to final database dump
+0001.875 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_shortcode.table.gz (21/91): adding to final database dump
+0001.877 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_bwg_theme.table.gz (22/91): adding to final database dump
+0001.880 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_ewwwio_images.table.gz (23/91): adding to final database dump
+0001.884 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gallery_albums.table.gz (24/91): adding to final database dump
+0001.887 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gallery_pics.table.gz (25/91): adding to final database dump
+0001.889 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gallery_settings.table.gz (26/91): adding to final database dump
+0001.892 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_folders.table.gz (27/91): adding to final database dump
+0001.894 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_galleries.table.gz (28/91): adding to final database dump
+0001.895 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_galleries_excluded.table.gz (29/91): adding to final database dump
+0001.897 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_galleries_resources.table.gz (30/91): adding to final database dump
+0001.901 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_photos.table.gz (31/91): adding to final database dump
+0001.905 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_photos_pos.table.gz (32/91): adding to final database dump
+0001.907 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_photos_settings.table.gz (33/91): adding to final database dump
+0001.910 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_settings_presets.table.gz (34/91): adding to final database dump
+0001.912 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_settings_sets.table.gz (35/91): adding to final database dump
+0001.914 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_stats.table.gz (36/91): adding to final database dump
+0001.916 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_gg_tags.table.gz (37/91): adding to final database dump
+0001.920 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_huge_itgallery_gallerys.table.gz (38/91): adding to final database dump
+0001.923 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_huge_itgallery_images.table.gz (39/91): adding to final database dump
+0001.926 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_huge_itgallery_like_dislike.table.gz (40/91): adding to final database dump
+0001.928 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_itsec_lockouts.table.gz (41/91): adding to final database dump
+0001.930 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_itsec_log.table.gz (42/91): adding to final database dump
+0001.932 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_itsec_temp.table.gz (43/91): adding to final database dump
+0001.935 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_ngg_album.table.gz (44/91): adding to final database dump
+0001.939 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_ngg_gallery.table.gz (45/91): adding to final database dump
+0001.940 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_ngg_pictures.table.gz (46/91): adding to final database dump
+0001.944 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db-table-wp_sgmb_widget.table.gz (47/91): adding to final database dump
+0001.946 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db.gz: finished writing out complete database file (216 KB)
+0001.990 (0) Total database tables backed up: 47 (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db.gz, size: 249767, checksum (SHA1): 60905a27628c06d2609782cf3b522c5356d028ca)
+0001.996 (0) backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db.gz: db: This file has not yet been successfully uploaded: will queue
+0001.997 (0) Saving backup history. Total backup size: 243.9 KB
+0002.001 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0002.006 (0) Cloud backup selection (1/1): dropbox (last)
+0002.008 (0) Beginning dispatch of backup to remote (dropbox)
+0002.009 (0) Dropbox: begin cloud upload
+0002.095 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0003.824 (0) Dropbox quota usage: normal=610.5 MB, shared=0 MB, total=2048 MB, available=1437.5 MB
+0003.826 (0) Dropbox: Attempt to upload: backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db.gz to: backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db.gz
+0007.686 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAI6JCUaYXSJcqg, 249767, 1024 KB)
+0009.493 (0) Recording as successfully uploaded: backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db.gz (70717915e79c8f154c3b7a4d241e5ec3)
+0009.504 (0) Deleting local file: backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db.gz: OK
+0009.507 (0) Dropbox: File upload success (backup_2016-09-07-1625_misericordiappua_8123907dd5c6-db.gz): 243 KB in 5s (42 KB/s)
+0009.513 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+0009.517 (0) Number of backup sets in history: 7; groups (db): 1
+0009.519 (0) Examining (for databases) backup set with group_id=0, nonce=8123907dd5c6, datestamp=1473258334 (Sep 07 2016 14:25:34)
+0009.521 (0) This backup set is the backup set just made, so will not be deleted.
+0009.523 (0) Examining (for databases) backup set with group_id=0, nonce=fa536c00cd19, datestamp=1473252076 (Sep 07 2016 12:41:16)
+0009.525 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0009.527 (0) Examining (for databases) backup set with group_id=0, nonce=165286ddbbae, datestamp=1473251863 (Sep 07 2016 12:37:43)
+0009.529 (0) Examining (for databases) backup set with group_id=0, nonce=a289aca494fc, datestamp=1473167712 (Sep 06 2016 13:15:12)
+0009.531 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0009.533 (0) Examining (for databases) backup set with group_id=0, nonce=f70dcaada0f9, datestamp=1472916800 (Sep 03 2016 15:33:20)
+0009.535 (0) 1472916800: db: this set includes a database (backup_2016-09-03-1733_misericordiappua_f70dcaada0f9-db.gz); db count is now 3
+0009.538 (0) 1472916800: db: over retain limit (3); will delete this database
+0009.540 (0) Delete file: backup_2016-09-03-1733_misericordiappua_f70dcaada0f9-db.gz, service=dropbox
+0009.543 (0) Dropbox: request deletion: backup_2016-09-03-1733_misericordiappua_f70dcaada0f9-db.gz
+0010.882 (0) Dropbox: delete succeeded
+0010.886 (0) This backup set is now empty; will remove from history
+0010.889 (0) Deleting log file (log.f70dcaada0f9.txt)
+0010.891 (0) Examining (for databases) backup set with group_id=0, nonce=7f5c0d1d83c5, datestamp=1472836574 (Sep 02 2016 17:16:14)
+0010.893 (0) Examining (for databases) backup set with group_id=0, nonce=442f987ac0d3, datestamp=1465999241 (Jun 15 2016 14:00:41)
+0010.895 (0) Number of backup sets in history: 6; groups (files): 1
+0010.897 (0) Examining (for files) backup set with nonce=8123907dd5c6, datestamp=1473258334 (Sep 07 2016 14:25:34)
+0010.899 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0010.900 (0) Examining (for files) backup set with nonce=fa536c00cd19, datestamp=1473252076 (Sep 07 2016 12:41:16)
+0010.902 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0010.903 (0) Examining (for files) backup set with nonce=165286ddbbae, datestamp=1473251863 (Sep 07 2016 12:37:43)
+0010.904 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0010.905 (0) Examining (for files) backup set with nonce=a289aca494fc, datestamp=1473167712 (Sep 06 2016 13:15:12)
+0010.906 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0010.908 (0) Examining (for files) backup set with nonce=7f5c0d1d83c5, datestamp=1472836574 (Sep 02 2016 17:16:14)
+0010.910 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0010.912 (0) Examining (for files) backup set with nonce=442f987ac0d3, datestamp=1465999241 (Jun 15 2016 14:00:41)
+0010.914 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0010.916 (0) Retain: saving new backup history (sets now: 6) and finishing retain operation
+0010.922 (0) Resume backup (8123907dd5c6, 0): finish run
+0010.925 (0) Decremented the semaphore (d) by 1
+0010.927 (0) Semaphore (d) unlocked
+0010.929 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0010.935 (0) No email will/can be sent - the user has not configured an email address.
+0010.936 (0) The backup apparently succeeded and is now complete
